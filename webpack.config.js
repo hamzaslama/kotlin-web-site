@@ -124,6 +124,7 @@ module.exports = (params = {}) => {
           test: /\.(jpe?g|png|gif)$/,
           loader: 'url-loader',
           options: {
+            esModule: false,
             limit: 10000,
             name: '[path][name].[ext]'
           }
