@@ -114,7 +114,8 @@ module.exports = (params = {}) => {
               options: {
                 plugins: [
                   {removeTitle: true},
-                  {convertPathData: false}
+                  {convertPathData: false},
+                  {removeScriptElement:true}
                 ]
               }
             }
