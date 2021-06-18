@@ -42,7 +42,7 @@
     "sass-loader": "7.1.0",
     "scrolltofixed": "1.0.6",
     "smoothscroll-polyfill": "0.3.4",
-    "svg-transform-loader": "2.0.3",
+    "svg-transform-loader": "2.0.4",
     "url-loader": "1.1.2",
     "url-search-params": "0.6.1",
     "webpack": "4.28.4",
